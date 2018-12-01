@@ -1,8 +1,12 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color:#ff9900;
+    background-color:#1a6565;
     overflow: hidden;
 }
+html,body {
+    height: 100%;
+  }
+
 
 /* Style the links inside the navigation bar */
 .topnav a {
