@@ -1,3 +1,3 @@
 # JakiShaik.github.io
 
-A github page
+A github page for profile sharing
